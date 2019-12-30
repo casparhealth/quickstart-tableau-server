@@ -137,11 +137,12 @@
                 "m4.2xlarge",
                 "m4.4xlarge",
                 "m4.10xlarge",
+                "m5.2xlarge",
                 "m5.4xlarge",
                 "m5.12xlarge"
             ],
             "ConstraintDescription": "must be a valid EC2 instance type.",
-            "Default": "m4.4xlarge",
+            "Default": "m5.2xlarge",
             "Description": "Amazon EC2 instance type",
             "Type": "String"
         },

@@ -579,14 +579,6 @@
                 }
             }
         },
-        "EIP": {
-            "Type": "AWS::EC2::EIP",
-            "Properties": {
-                "InstanceId": {
-                    "Ref": "TableauServer"
-                }
-            }
-        },
         "ServerSecurityGroup": {
             "Type": "AWS::EC2::SecurityGroup",
             "Properties": {

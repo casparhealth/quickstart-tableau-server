@@ -331,7 +331,7 @@
                     "config": {
                         "packages": {
                             "deb": {
-                                "postgresql-odbc": "https://s3-us-west-2.amazonaws.com/tableau-quickstart/tableau-postgresql-odbc_9.5.3_amd64.deb"
+                                "postgresql-odbc": "https://shared-publicly.s3-eu-west-1.amazonaws.com/tableau-utils/drivers/tableau-postgresql-odbc_09.06.0501_amd64.deb"
                             },
                             "apt": {
                                 "awscli": []
